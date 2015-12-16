@@ -4,8 +4,12 @@
 
 This repository contains the list of votes in the 70th session. It has been assembled by Philippe Rivière @ VisionsCarto.net
 
+
+## Caveat emptor
+
 The file was checked for consistency with the reported totals of each vote. However inaccuracies may still be present. Please open an issue if that is the case.
 
+TODO: The votes in GA are missing.
 
 ## Provenance
 
