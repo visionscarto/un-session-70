@@ -114,7 +114,7 @@ Sources:
 
 ### A/C.1/70/L.23 (A/RES/70/38)
   Follow-up to nuclear disarmament obligations agreed to at the 1995, 2000 and 2010 Review Conferences of the Parties to the Treaty on the Non-Proliferation of Nuclear Weapons
-> Voting result in First Committee as a whole:[L23] 113-46-15  
+> Voting result in First Committee as a whole:[votes/L23] 113-46-15  
 > Voting result in First Committee on PP6: [votes/L23PP6] 115-5-4  
 > Voting result in the General Assembly as a whole: [votes/ga38] 121-48-12  
 > Voting result in the General Assembly on PP6: [votes/ga38PP6] 124-3-49  
