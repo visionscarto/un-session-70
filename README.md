@@ -2,7 +2,7 @@
 
 ## United Nations General Assembly, 70th session, 2015
 
-This repository contains the list of votes in the 70th session. It has been assembled by Philippe Rivière @ VisionsCarto.net
+This repository contains the list of votes in the 70th session. It has been assembled by Philippe Rivière for VisionsCarto (see our data analysis and visualisation at [http://visionscarto.net/nations-unies-qui-vote-avec-qui](http://visionscarto.net/nations-unies-qui-vote-avec-qui)).
 
 
 ## Caveat emptor
